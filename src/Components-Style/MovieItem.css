@@ -1,0 +1,14 @@
+.movie-item {
+  text-align: center;
+  align-items: center;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+  width: 300px;
+  margin-left: 20px;
+}
+
+.movie-item img {
+  width: 250px;
+}
